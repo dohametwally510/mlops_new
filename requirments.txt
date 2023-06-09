@@ -2,5 +2,5 @@ pylint==1.9.5
 pytest==4.6.11
 fastapi==0.68.0
 uvicorn[standard]==0.15.0
-
+httpx
 
